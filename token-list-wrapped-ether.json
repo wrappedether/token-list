@@ -1,0 +1,29 @@
+{
+  "name": "Wrapped Ether",
+  "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
+  "keywords": ["etcswap", "ethereum classic", "etc", "wrapped ether", "wrapped etc","wetc"],
+  "timestamp": "2022-05-06T00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 61,
+      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+      "name": "Wrapped Ether",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
+    },
+    {
+      "chainId": 63,
+      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+      "name": "Wrapped Ether",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://github.com/etcswap/assets/blob/master/blockchains/ethereum-classic/assets/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png?raw=true"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
